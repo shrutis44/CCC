@@ -1,1 +1,5 @@
-this is 1.txt for login system
+<<<<<<< HEAD
+this is 1.txt for login system includes register
+=======
+this is 1.txt of login system 
+>>>>>>> register
